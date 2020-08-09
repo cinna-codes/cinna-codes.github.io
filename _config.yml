@@ -1,11 +1,11 @@
 # Site settings
-author: Cinna Goldman
-title: 
+author: Cinna G
+title: Student Programmer
 header-img: img/home-bg.png
 email: somethingfellipickeditup@gmail.com
-copyright_name: Cinna Goldman
+copyright_name: Cinna G
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning How to Code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  cinna-codes
