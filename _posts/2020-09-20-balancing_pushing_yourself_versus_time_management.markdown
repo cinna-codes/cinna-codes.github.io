@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Balancing Pushing Yourself Versus Time Management"
-date:       2020-09-20 23:22:26 +0000
+date:       2020-09-20 19:22:27 -0400
 permalink:  balancing_pushing_yourself_versus_time_management
 ---
 
